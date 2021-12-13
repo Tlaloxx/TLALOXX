@@ -1,3 +1,3 @@
 ### I'm Tlaloc Álvarez 👋
 
-![hey there!](/images/tlaloc.png)
+![hey there!](/tlaloc.png)
